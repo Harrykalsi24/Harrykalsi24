@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- Hero Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=220&section=header&text=Harjit%20Singh&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Software%20Developer%20%7C%20Web%20Designer%20%26amp%3B%20Developer%20%7C%20Networking%20Specialist&descSize=18&descAlignY=58" width="100%" alt="Harjit Singh header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=220&section=header&text=Harjit%20Singh&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Software%20Developer%20%7C%20Full-Stack%20Web%20%26amp%3B%20Mobile%20%7C%20Networking%20Specialist&descSize=18&descAlignY=58" width="100%" alt="Harjit Singh header" />
 
 <br/>
 
 <!-- Dynamic Typewriter Tagline -->
 <a href="https://github.com/Harrykalsi24">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=780&lines=Software+Developer+%26+Problem+Solver;Full-Stack+Web+Designer+%26+Developer;Networking+%26+Cloud+Specialist;Python+%7C+React+%7C+Java+%7C+C%2B%2B+%7C+AWS;Building+Impactful+Modern+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=780&lines=Software+Developer+%26+Problem+Solver;Full-Stack+Web+%26+Mobile+Developer;React+%7C+TypeScript+%7C+Python+%7C+AWS;Networking+%26+Cloud+Specialist;Building+Impactful+Modern+Solutions" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -27,27 +27,27 @@
 ```typescript
 const harjit: Developer = {
   name: "Harjit Singh",
-  title: "Software Developer | Web Designer & Developer | Networking Specialist",
-  stack: ["Python", "C", "C++", "Java", "JavaScript", "React", "HTML5", "CSS3", "AWS"],
+  title: "Software Developer | Full-Stack Web & Mobile | Networking Specialist",
+  stack: ["TypeScript", "JavaScript", "React", "Python", "C", "C++", "Java", "Tailwind CSS", "AWS"],
   status: "Open to Work",
-  interests: ["Full-Stack Engineering", "Cloud Infrastructure", "Network Architecture"],
-  projects: ["Portfolio", "Perfume-E-Comm", "Snake-game", "ATMO Weather", "Ecal Smart EMI"],
-  openTo: ["Software Developer roles", "Web Design & Development", "Network Engineering"]
+  interests: ["Full-Stack Engineering", "Mobile App Development", "Cloud Infrastructure", "Network Architecture"],
+  projects: ["Foggy-Weather", "Ecal", "Perfume-E-Comm", "Portfolio", "Snake-game", "LoginUI"],
+  openTo: ["Software Developer roles", "Full-Stack Web & Mobile", "Network Engineering"]
 };
 ```
 
-- 🔭 **Currently Building**: Responsive web applications and scalable cloud systems using **React**, **Tailwind CSS**, and **AWS**.
-- 💡 **Core Strengths**: Clean code architecture, modern UI/UX design, algorithmic problem solving, and networking protocols.
-- 🌱 **Currently Exploring**: Cloud-native architectures, API orchestration, performance optimization, and distributed systems.
-- 💬 **Ask Me About**: Python, C++, Java, JavaScript, React, Tailwind CSS, System Administration, and Computer Networking.
+- 🔭 **Currently Building**: High-performance web and mobile apps using **React**, **TypeScript**, **Tailwind CSS**, and **Capacitor**.
+- 💡 **Core Strengths**: Clean code architecture, interactive UI/UX design, real-time API integrations, and networking protocols.
+- 🌱 **Currently Exploring**: Cross-platform mobile ecosystems, cloud-native architectures, and distributed systems.
+- 💬 **Ask Me About**: TypeScript, React, Python, C++, Java, Tailwind CSS, System Administration, and Computer Networking.
 - ⚡ **Fun Fact**: Passionate about fine-tuning application performance down to the millisecond and crafting intuitive visual experiences.
 
 <details>
   <summary><b>🎯 Core Competencies & Engineering Philosophy (Click to expand)</b></summary>
   <br/>
   
-  - **Clean & Modular Code**: Strong emphasis on readability, maintainability, and clean architecture principles.
-  - **End-to-End Execution**: Comfortable transitioning from Figma mockups and front-end state management down to back-end logic and cloud deployments.
+  - **Clean & Modular Code**: Strong emphasis on readability, maintainability, type safety, and clean architecture principles.
+  - **End-to-End Execution**: Seamlessly bridging Figma mockups, responsive front-end state management, and native cross-platform deployment.
   - **Networking Foundations**: In-depth knowledge of OSI stack, TCP/IP, DNS, subnetting, routing protocols, and socket programming.
   - **Continuous Growth**: Constantly pushing code, mastering modern developer tooling, and shipping production-ready software.
 </details>
@@ -61,8 +61,8 @@ const harjit: Developer = {
 ### 💻 Languages
 <img src="https://skillicons.dev/icons?i=py,c,cpp,java,js,ts,bash&theme=dark" alt="Languages" />
 
-### 🎨 Frontend & Design
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite,figma&theme=dark" alt="Frontend" />
+### 🎨 Frontend & Mobile
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite,android,figma&theme=dark" alt="Frontend & Mobile" />
 
 ### ☁️ Cloud, Systems & Networking
 <img src="https://skillicons.dev/icons?i=aws,linux,ubuntu,nginx&theme=dark" alt="Cloud & Systems" />
@@ -80,10 +80,12 @@ const harjit: Developer = {
 
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **🌐 Portfolio** | Personal portfolio site featuring interactive cursor tracking, smooth transitions, and contact gateways. | Tailwind CSS, HTML5, JavaScript | [![Live](https://img.shields.io/badge/Live-Demo-0A66C2?style=flat-square&logo=githubpages&logoColor=white)](https://harrykalsi24.github.io/Portfolio/) [![Code](https://img.shields.io/badge/Code-Repo-0A66C2?style=flat-square&logo=github&logoColor=white)](https://github.com/Harrykalsi24/Portfolio) |
-| **🛍️ Perfumy Website** | Luxury perfume e-commerce storefront with responsive product catalog, elegant typography, and modern UI. | Tailwind CSS, HTML5, JavaScript | [![Live](https://img.shields.io/badge/Live-Demo-0A66C2?style=flat-square&logo=githubpages&logoColor=white)](https://harrykalsi24.github.io/Perfume-E-Comm/) [![Code](https://img.shields.io/badge/Code-Repo-0A66C2?style=flat-square&logo=github&logoColor=white)](https://github.com/Harrykalsi24/Perfume-E-Comm) |
-| **🐍 Snake Game** | Classic retro arcade game engine built on HTML5 Canvas with adjustable difficulty levels and score tracking. | JavaScript, HTML5 Canvas, CSS3 | [![Live](https://img.shields.io/badge/Live-Demo-0A66C2?style=flat-square&logo=githubpages&logoColor=white)](https://harrykalsi24.github.io/Snake-game/) [![Code](https://img.shields.io/badge/Code-Repo-0A66C2?style=flat-square&logo=github&logoColor=white)](https://github.com/Harrykalsi24/Snake-game) |
-| **🌦️ ATMO Weather** | Real-time weather forecasting application with live OpenWeather API sync, animated atmospheric visuals, and GPS. | JavaScript, OpenWeather API, CSS3 | [![Live](https://img.shields.io/badge/Live-Demo-0A66C2?style=flat-square&logo=githubpages&logoColor=white)](https://harrykalsi24.github.io/atmo/) [![Code](https://img.shields.io/badge/Code-Repo-0A66C2?style=flat-square&logo=github&logoColor=white)](https://github.com/Harrykalsi24/atmo) |
+| **🌫️ Foggy Weather** | Real-time global weather dashboard with interactive Leaflet map, city landmarks via Wikipedia API, hourly/7-day forecasts, and native Android APK. | React 19, TypeScript, Vite, Tailwind v4, Capacitor | [![Live](https://img.shields.io/badge/Live-Demo-0A66C2?style=flat-square&logo=githubpages&logoColor=white)](https://harrykalsi24.github.io/Foggy-Weather/) [![Code](https://img.shields.io/badge/Code-Repo-0A66C2?style=flat-square&logo=github&logoColor=white)](https://github.com/Harrykalsi24/Foggy-Weather) [![APK](https://img.shields.io/badge/Download-APK-2ea44f?style=flat-square&logo=android&logoColor=white)](https://github.com/Harrykalsi24/Foggy-Weather/releases/tag/v1.0.0) |
+| **📱 Ecal • Smart EMI** | Smart EMI & loan financial calculator with interactive sliders, dynamic loan breakdown, amortization schedule, and multi-theme switcher. | JavaScript, HTML5, CSS3, Android | [![Live](https://img.shields.io/badge/Live-Demo-0A66C2?style=flat-square&logo=githubpages&logoColor=white)](https://harrykalsi24.github.io/Ecal/) [![Code](https://img.shields.io/badge/Code-Repo-0A66C2?style=flat-square&logo=github&logoColor=white)](https://github.com/Harrykalsi24/Ecal) |
+| **🌸 Perfumy Boutique** | Luxury artisanal perfume e-commerce storefront with responsive product catalog, bespoke fragrance matching, and modern aesthetic. | Tailwind CSS, HTML5, JavaScript | [![Live](https://img.shields.io/badge/Live-Demo-0A66C2?style=flat-square&logo=githubpages&logoColor=white)](https://harrykalsi24.github.io/Perfume-E-Comm/) [![Code](https://img.shields.io/badge/Code-Repo-0A66C2?style=flat-square&logo=github&logoColor=white)](https://github.com/Harrykalsi24/Perfume-E-Comm) |
+| **🌐 Portfolio** | Personal portfolio site featuring interactive cursor tracking, smooth transitions, project showcases, and contact gateways. | Tailwind CSS, HTML5, JavaScript | [![Live](https://img.shields.io/badge/Live-Demo-0A66C2?style=flat-square&logo=githubpages&logoColor=white)](https://harrykalsi24.github.io/Portfolio/) [![Code](https://img.shields.io/badge/Code-Repo-0A66C2?style=flat-square&logo=github&logoColor=white)](https://github.com/Harrykalsi24/Portfolio) |
+| **🐍 Retro Snake Game** | Classic retro arcade game engine built on HTML5 Canvas featuring difficulty scaling, collision mechanics, and live score tracking. | JavaScript, HTML5 Canvas, CSS3 | [![Live](https://img.shields.io/badge/Live-Demo-0A66C2?style=flat-square&logo=githubpages&logoColor=white)](https://harrykalsi24.github.io/Snake-game/) [![Code](https://img.shields.io/badge/Code-Repo-0A66C2?style=flat-square&logo=github&logoColor=white)](https://github.com/Harrykalsi24/Snake-game) |
+| **🔐 LoginUI** | Modern interactive authentication interface featuring video background switching, glassmorphic card styling, and animated form transitions. | HTML5, CSS3, JavaScript | [![Live](https://img.shields.io/badge/Live-Demo-0A66C2?style=flat-square&logo=githubpages&logoColor=white)](https://harrykalsi24.github.io/LoginUI/) [![Code](https://img.shields.io/badge/Code-Repo-0A66C2?style=flat-square&logo=github&logoColor=white)](https://github.com/Harrykalsi24/LoginUI) |
 
 </div>
 
@@ -91,11 +93,20 @@ const harjit: Developer = {
 
 <div align="center">
 
-<a href="https://github.com/Harrykalsi24/Portfolio">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Harrykalsi24&repo=Portfolio&theme=nord&border_color=0A66C2&title_color=0A66C2&icon_color=0A66C2&bg_color=0d1117" alt="Portfolio repo card" />
+<a href="https://github.com/Harrykalsi24/Foggy-Weather">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Harrykalsi24&repo=Foggy-Weather&theme=nord&border_color=0A66C2&title_color=0A66C2&icon_color=0A66C2&bg_color=0d1117" alt="Foggy-Weather repo card" />
 </a>
+<a href="https://github.com/Harrykalsi24/Ecal">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Harrykalsi24&repo=Ecal&theme=nord&border_color=0A66C2&title_color=0A66C2&icon_color=0A66C2&bg_color=0d1117" alt="Ecal repo card" />
+</a>
+
+<br/>
+
 <a href="https://github.com/Harrykalsi24/Perfume-E-Comm">
   <img src="https://github-stats-extended.vercel.app/api/pin/?username=Harrykalsi24&repo=Perfume-E-Comm&theme=nord&border_color=0A66C2&title_color=0A66C2&icon_color=0A66C2&bg_color=0d1117" alt="Perfume-E-Comm repo card" />
+</a>
+<a href="https://github.com/Harrykalsi24/Portfolio">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Harrykalsi24&repo=Portfolio&theme=nord&border_color=0A66C2&title_color=0A66C2&icon_color=0A66C2&bg_color=0d1117" alt="Portfolio repo card" />
 </a>
 
 <br/>
@@ -103,8 +114,8 @@ const harjit: Developer = {
 <a href="https://github.com/Harrykalsi24/Snake-game">
   <img src="https://github-stats-extended.vercel.app/api/pin/?username=Harrykalsi24&repo=Snake-game&theme=nord&border_color=0A66C2&title_color=0A66C2&icon_color=0A66C2&bg_color=0d1117" alt="Snake-game repo card" />
 </a>
-<a href="https://github.com/Harrykalsi24/atmo">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Harrykalsi24&repo=atmo&theme=nord&border_color=0A66C2&title_color=0A66C2&icon_color=0A66C2&bg_color=0d1117" alt="atmo repo card" />
+<a href="https://github.com/Harrykalsi24/LoginUI">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Harrykalsi24&repo=LoginUI&theme=nord&border_color=0A66C2&title_color=0A66C2&icon_color=0A66C2&bg_color=0d1117" alt="LoginUI repo card" />
 </a>
 
 </div>
