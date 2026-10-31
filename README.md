@@ -1,16 +1,19 @@
 <div align="center">
 
+<!-- Hero Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=220&section=header&text=Harjit%20Singh&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Software%20Developer%20%7C%20Web%20Designer%20%26%20Developer%20%7C%20Networking%20Specialist&descSize=18&descAlignY=58" width="100%" alt="Harjit Singh header" />
 
 <br/>
 
+<!-- Dynamic Typewriter Tagline -->
 <a href="https://github.com/Harrykalsi24">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=750&lines=Software+Developer+%26+Problem+Solver;Full-Stack+Web+Designer+%26+Developer;Networking+%26+Cloud+Specialist;Python+%7C+React+%7C+Java+%7C+C%2B%2B+%7C+AWS;Building+Impactful+Modern+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=780&lines=Software+Developer+%26+Problem+Solver;Full-Stack+Web+Designer+%26+Developer;Networking+%26+Cloud+Specialist;Python+%7C+React+%7C+Java+%7C+C%2B%2B+%7C+AWS;Building+Impactful+Modern+Solutions" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/harrykalsi24/"><img src="https://img.shields.io/badge/OPEN%20TO%20WORK-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Open to work" /></a>
+<!-- Status & Live Metric Badges -->
+<a href="https://www.linkedin.com/in/harrykalsi24/"><img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Open to work" /></a>
 <img src="https://komarev.com/ghpvc/?username=Harrykalsi24&color=0A66C2&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
 <a href="https://github.com/Harrykalsi24?tab=followers"><img src="https://img.shields.io/github/followers/Harrykalsi24?style=for-the-badge&logo=github&logoColor=white&color=0A66C2&label=FOLLOWERS" alt="GitHub followers" /></a>
 <a href="https://github.com/Harrykalsi24?tab=repositories"><img src="https://img.shields.io/github/stars/Harrykalsi24?style=for-the-badge&logo=apachespark&logoColor=white&color=0A66C2&label=STARS" alt="GitHub stars" /></a>
@@ -34,10 +37,20 @@ const harjit: Developer = {
 ```
 
 - 🔭 **Currently Building**: Responsive web applications and scalable cloud systems using **React**, **Tailwind CSS**, and **AWS**.
-- 💡 **Core Strengths**: Clean and maintainable code architecture, modern UI/UX design, algorithmic problem solving, and networking protocols.
+- 💡 **Core Strengths**: Clean code architecture, modern UI/UX design, algorithmic problem solving, and networking protocols.
 - 🌱 **Currently Exploring**: Cloud-native architectures, API orchestration, performance optimization, and distributed systems.
 - 💬 **Ask Me About**: Python, C++, Java, JavaScript, React, Tailwind CSS, System Administration, and Computer Networking.
 - ⚡ **Fun Fact**: Passionate about fine-tuning application performance down to the millisecond and crafting intuitive visual experiences.
+
+<details>
+  <summary><b>🎯 Core Competencies & Engineering Philosophy (Click to expand)</b></summary>
+  <br/>
+  
+  - **Clean & Modular Code**: Strong emphasis on readability, maintainability, and clean architecture principles.
+  - **End-to-End Execution**: Comfortable transitioning from Figma mockups and front-end state management down to back-end logic and cloud deployments.
+  - **Networking Foundations**: In-depth knowledge of OSI stack, TCP/IP, DNS, subnetting, routing protocols, and socket programming.
+  - **Continuous Growth**: Constantly pushing code, mastering modern developer tooling, and shipping production-ready software.
+</details>
 
 ---
 
@@ -98,6 +111,21 @@ const harjit: Developer = {
 
 ---
 
+## 🐍 Contribution Graph & Activity
+
+<div align="center">
+
+<!-- Animated Contribution Snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harrykalsi24/Harrykalsi24/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harrykalsi24/Harrykalsi24/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Harrykalsi24/Harrykalsi24/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
+
+</div>
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -112,6 +140,11 @@ const harjit: Developer = {
 <br/><br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harrykalsi24&theme=nord" alt="Profile Details" />
+
+<br/><br/>
+
+<!-- Daily Dev Quote -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" alt="Daily Dev Inspiration" />
 
 </div>
 
@@ -128,6 +161,7 @@ const harjit: Developer = {
 
 <br/><br/>
 
+<!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=140&section=footer" width="100%" alt="Footer" />
 
 </div>
