@@ -65,71 +65,36 @@ const harjit: Developer = {
 
 <div align="center">
 
-| Project | Key Technologies | Highlights | Links |
+| Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **🌐 Personal Portfolio** | Tailwind CSS, HTML5, JavaScript, Remix Icons | Custom cursor tracker, smooth transitions, Pacifico/Inter typography | [![Live](https://img.shields.io/badge/Live-Demo-0A66C2?style=flat-square&logo=githubpages&logoColor=white)](https://harrykalsi24.github.io/Portfolio/) [![Code](https://img.shields.io/badge/Code-Repo-0A66C2?style=flat-square&logo=github&logoColor=white)](https://github.com/Harrykalsi24/Portfolio) |
-| **🛍️ Perfumy E-Commerce** | Tailwind CSS, HTML5, JavaScript, Poppins | Luxury perfume storefront, responsive product grid, elegant catalog UI | [![Live](https://img.shields.io/badge/Live-Demo-0A66C2?style=flat-square&logo=githubpages&logoColor=white)](https://harrykalsi24.github.io/Perfume-E-Comm/) [![Code](https://img.shields.io/badge/Code-Repo-0A66C2?style=flat-square&logo=github&logoColor=white)](https://github.com/Harrykalsi24/Perfume-E-Comm) |
-| **🐍 Retro Snake Game** | JavaScript, HTML5 Canvas, CSS3 | 60fps canvas engine, difficulty speed levels, score tracking, instant replay | [![Live](https://img.shields.io/badge/Live-Demo-0A66C2?style=flat-square&logo=githubpages&logoColor=white)](https://harrykalsi24.github.io/Snake-game/) [![Code](https://img.shields.io/badge/Code-Repo-0A66C2?style=flat-square&logo=github&logoColor=white)](https://github.com/Harrykalsi24/Snake-game) |
-| **🌦️ ATMO Weather App** | JavaScript, OpenWeatherMap API, HTML5, CSS3 | Live OpenWeather API sync, animated atmospheric visuals, GPS geolocation | [![Live](https://img.shields.io/badge/Live-Demo-0A66C2?style=flat-square&logo=githubpages&logoColor=white)](https://harrykalsi24.github.io/atmo/) [![Code](https://img.shields.io/badge/Code-Repo-0A66C2?style=flat-square&logo=github&logoColor=white)](https://github.com/Harrykalsi24/atmo) |
-| **📱 Ecal - Smart EMI** | JavaScript, Plus Jakarta Sans, CSS3, HTML5 | Segmented theme switcher (Dark/Light/System), real-time amortization math | [![Code](https://img.shields.io/badge/Code-Repo-0A66C2?style=flat-square&logo=github&logoColor=white)](https://github.com/Harrykalsi24/Ecal) |
-| **🔐 LoginUI Portal** | HTML5, CSS3, JavaScript | Modern accessible form layout, smooth input transitions, responsive styling | [![Live](https://img.shields.io/badge/Live-Demo-0A66C2?style=flat-square&logo=githubpages&logoColor=white)](https://harrykalsi24.github.io/LoginUI/) [![Code](https://img.shields.io/badge/Code-Repo-0A66C2?style=flat-square&logo=github&logoColor=white)](https://github.com/Harrykalsi24/LoginUI) |
+| **🌐 Portfolio** | Personal portfolio site featuring interactive cursor tracking, smooth transitions, and contact gateways. | Tailwind CSS, HTML5, JavaScript | [![Live](https://img.shields.io/badge/Live-Demo-0A66C2?style=flat-square&logo=githubpages&logoColor=white)](https://harrykalsi24.github.io/Portfolio/) [![Code](https://img.shields.io/badge/Code-Repo-0A66C2?style=flat-square&logo=github&logoColor=white)](https://github.com/Harrykalsi24/Portfolio) |
+| **🛍️ Perfumy Website** | Luxury perfume e-commerce storefront with responsive product catalog, elegant typography, and modern UI. | Tailwind CSS, HTML5, JavaScript | [![Live](https://img.shields.io/badge/Live-Demo-0A66C2?style=flat-square&logo=githubpages&logoColor=white)](https://harrykalsi24.github.io/Perfume-E-Comm/) [![Code](https://img.shields.io/badge/Code-Repo-0A66C2?style=flat-square&logo=github&logoColor=white)](https://github.com/Harrykalsi24/Perfume-E-Comm) |
+| **🐍 Snake Game** | Classic retro arcade game engine built on HTML5 Canvas with adjustable difficulty levels and score tracking. | JavaScript, HTML5 Canvas, CSS3 | [![Live](https://img.shields.io/badge/Live-Demo-0A66C2?style=flat-square&logo=githubpages&logoColor=white)](https://harrykalsi24.github.io/Snake-game/) [![Code](https://img.shields.io/badge/Code-Repo-0A66C2?style=flat-square&logo=github&logoColor=white)](https://github.com/Harrykalsi24/Snake-game) |
+| **🌦️ ATMO Weather** | Real-time weather forecasting application with live OpenWeather API sync, animated atmospheric visuals, and GPS. | JavaScript, OpenWeather API, CSS3 | [![Live](https://img.shields.io/badge/Live-Demo-0A66C2?style=flat-square&logo=githubpages&logoColor=white)](https://harrykalsi24.github.io/atmo/) [![Code](https://img.shields.io/badge/Code-Repo-0A66C2?style=flat-square&logo=github&logoColor=white)](https://github.com/Harrykalsi24/atmo) |
 
 </div>
 
 <br/>
 
-### 🌐 [Personal Portfolio](https://github.com/Harrykalsi24/Portfolio)
-> **Modern Personal Portfolio & Developer Showcase Site**
->
-> High-performance personal portfolio site built with Tailwind CSS, custom interactive cursor tracker, smooth transition effects, Pacifico & Inter typography, and Remix icon suite. Features interactive project galleries, skill showcases, and live contact portals.
+<div align="center">
 
-- **Key Highlights**: Custom interactive mouse-follow cursor • Fully responsive mobile-to-desktop layout • Smooth CSS state transitions • Contact and bio gateways
-- **Tech Stack**: ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-- **Quick Links**: [![Live Demo](https://img.shields.io/badge/Live_Demo-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://harrykalsi24.github.io/Portfolio/) [![GitHub Code](https://img.shields.io/badge/GitHub_Repo-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harrykalsi24/Portfolio)
+<a href="https://github.com/Harrykalsi24/Portfolio">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Harrykalsi24&repo=Portfolio&theme=nord&border_color=0A66C2&title_color=0A66C2&icon_color=0A66C2&bg_color=0d1117" alt="Portfolio repo card" />
+</a>
+<a href="https://github.com/Harrykalsi24/Perfume-E-Comm">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Harrykalsi24&repo=Perfume-E-Comm&theme=nord&border_color=0A66C2&title_color=0A66C2&icon_color=0A66C2&bg_color=0d1117" alt="Perfume-E-Comm repo card" />
+</a>
 
----
+<br/>
 
-### 🛍️ [Perfumy E-Commerce](https://github.com/Harrykalsi24/Perfume-E-Comm)
-> **Luxury Fragrance E-Commerce Web Storefront**
->
-> Elegant luxury fragrance storefront designed with Tailwind CSS, Playfair Display & Poppins typography, responsive product showcase grid, and polished e-commerce shopping UI components.
+<a href="https://github.com/Harrykalsi24/Snake-game">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Harrykalsi24&repo=Snake-game&theme=nord&border_color=0A66C2&title_color=0A66C2&icon_color=0A66C2&bg_color=0d1117" alt="Snake-game repo card" />
+</a>
+<a href="https://github.com/Harrykalsi24/atmo">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Harrykalsi24&repo=atmo&theme=nord&border_color=0A66C2&title_color=0A66C2&icon_color=0A66C2&bg_color=0d1117" alt="atmo repo card" />
+</a>
 
-- **Key Highlights**: Luxury editorial design & purple color palette • Dynamic catalog product cards • Responsive navigation with Remix icons
-- **Tech Stack**: ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-- **Quick Links**: [![Live Demo](https://img.shields.io/badge/Live_Demo-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://harrykalsi24.github.io/Perfume-E-Comm/) [![GitHub Code](https://img.shields.io/badge/GitHub_Repo-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harrykalsi24/Perfume-E-Comm)
-
----
-
-### 🐍 [Retro Snake Game](https://github.com/Harrykalsi24/Snake-game)
-> **Classic Retro Arcade Game Engine**
->
-> Interactive retro arcade game powered by HTML5 Canvas and vanilla JavaScript. Features dynamic difficulty/speed adjustments, real-time score counter, smooth grid collision detection, and restart functionality.
-
-- **Key Highlights**: Canvas-rendered 60fps grid animation • Multi-difficulty speed dropdown • Instant collision detection & high-score tracking
-- **Tech Stack**: ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5 Canvas](https://img.shields.io/badge/HTML5_Canvas-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-- **Quick Links**: [![Live Demo](https://img.shields.io/badge/Live_Demo-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://harrykalsi24.github.io/Snake-game/) [![GitHub Code](https://img.shields.io/badge/GitHub_Repo-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harrykalsi24/Snake-game)
-
----
-
-### 🌦️ [ATMO Weather App](https://github.com/Harrykalsi24/atmo)
-> **Real-Time Atmospheric Weather Forecast Application**
->
-> Modern real-time atmospheric weather forecast application integrating the OpenWeatherMap API with dynamic animated backgrounds, GPS geolocation detection, city search, and detailed climate telemetry.
-
-- **Key Highlights**: Live OpenWeather API telemetry (temperature, humidity, wind) • GPS geolocation detection • Dynamic weather atmospheric animations
-- **Tech Stack**: ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![OpenWeather API](https://img.shields.io/badge/OpenWeather_API-EB6E4B?style=flat-square&logo=openweathermap&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-- **Quick Links**: [![Live Demo](https://img.shields.io/badge/Live_Demo-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://harrykalsi24.github.io/atmo/) [![GitHub Code](https://img.shields.io/badge/GitHub_Repo-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harrykalsi24/atmo)
-
----
-
-### 📱 [Ecal - Smart EMI](https://github.com/Harrykalsi24/Ecal)
-> **Mobile-First Financial Loan & EMI Calculator**
->
-> Smart financial EMI and loan calculation web application featuring a segmented theme switcher (Dark, Light, System), real-time amortization math, and clean Plus Jakarta Sans UI design.
-
-- **Key Highlights**: Segmented theme toggling (Dark, Light, System) • Real-time amortization formula calculations • Mobile-optimized touch layout
-- **Tech Stack**: ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-- **Quick Links**: [![GitHub Code](https://img.shields.io/badge/GitHub_Repo-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harrykalsi24/Ecal)
+</div>
 
 ---
 
