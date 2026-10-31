@@ -143,12 +143,12 @@ const harjit: Developer = {
 
 <div align="center">
 
-<img height="180em" src="https://github-stats-extended.vercel.app/api?username=Harrykalsi24&show_icons=true&include_all_commits=true&count_private=true&theme=nord&border_color=0A66C2&title_color=0A66C2&icon_color=0A66C2&text_color=e5e9f0&bg_color=0d1117&hide_border=false" alt="GitHub stats" />
-<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Harrykalsi24&layout=compact&langs_count=8&theme=nord&border_color=0A66C2&title_color=0A66C2&icon_color=0A66C2&text_color=e5e9f0&bg_color=0d1117&hide_border=false" alt="Top languages" />
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=Harrykalsi24&show_icons=true&include_all_commits=true&count_private=true&theme=nord&border_color=0A66C2&title_color=0A66C2&icon_color=0A66C2&text_color=e5e9f0&bg_color=0d1117&hide_border=false" alt="GitHub stats" />
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Harrykalsi24&layout=compact&langs_count=8&theme=nord&border_color=0A66C2&title_color=0A66C2&icon_color=0A66C2&text_color=e5e9f0&bg_color=0d1117&hide_border=false" alt="Top languages" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=Harrykalsi24&theme=nord&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2&border=0A66C2&background=0d1117" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com/?user=Harrykalsi24&theme=nord&ring=0A66C2&fire=0A66C2&currStreakLabel=0A66C2&border=0A66C2&background=0d1117&date_format=M%20j%2C%20Y" alt="GitHub streak" />
 
 <br/><br/>
 
