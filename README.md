@@ -24,38 +24,20 @@
 ```typescript
 const harjit: Developer = {
   name: "Harjit Singh",
-  title:
-    "Software Developer | Web Designer & Developer | Networking Specialist",
-  stack: [
-    "Python",
-    "C",
-    "C++",
-    "Java",
-    "JavaScript",
-    "React",
-    "HTML5",
-    "CSS3",
-    "AWS",
-  ],
+  title: "Software Developer | Web Designer & Developer | Networking Specialist",
+  stack: ["Python", "C", "C++", "Java", "JavaScript", "React", "HTML5", "CSS3", "AWS"],
   status: "Open to Work",
-  interests: [
-    "Full-Stack Engineering",
-    "Cloud Infrastructure",
-    "Network Architecture",
-  ],
-  openTo: [
-    "Software Developer roles",
-    "Web Design & Development",
-    "Network Engineering",
-  ],
+  interests: ["Full-Stack Engineering", "Cloud Infrastructure", "Network Architecture"],
+  projects: ["Portfolio", "Perfume-E-Comm", "Snake-game", "ATMO Weather", "Ecal Smart EMI"],
+  openTo: ["Software Developer roles", "Web Design & Development", "Network Engineering"]
 };
 ```
 
-- 🔭 **Currently Building**: Interactive web applications with **React**, **Node**, and **AWS Cloud**.
-- 💡 **Core Strengths**: Clean code architecture, performant front-end interfaces, and network fundamentals.
-- 🌱 **Currently Exploring**: Advanced system design, modern full-stack workflows, and cloud-native solutions.
-- 💬 **Ask Me About**: Python, C++, Java, React, JavaScript, Responsive UI, and Networking.
-- ⚡ **Fun Fact**: Passionate about fine-tuning systems for peak performance and creating seamless user experiences.
+- 🔭 **Currently Building**: Responsive web applications and scalable cloud systems using **React**, **Tailwind CSS**, and **AWS**.
+- 💡 **Core Strengths**: Clean and maintainable code architecture, modern UI/UX design, algorithmic problem solving, and networking protocols.
+- 🌱 **Currently Exploring**: Cloud-native architectures, API orchestration, performance optimization, and distributed systems.
+- 💬 **Ask Me About**: Python, C++, Java, JavaScript, React, Tailwind CSS, System Administration, and Computer Networking.
+- ⚡ **Fun Fact**: Passionate about fine-tuning application performance down to the millisecond and crafting intuitive visual experiences.
 
 ---
 
@@ -64,19 +46,15 @@ const harjit: Developer = {
 <div align="center">
 
 ### 💻 Languages
-
 <img src="https://skillicons.dev/icons?i=py,c,cpp,java,js,ts,bash&theme=dark" alt="Languages" />
 
 ### 🎨 Frontend & Design
-
 <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite,figma&theme=dark" alt="Frontend" />
 
 ### ☁️ Cloud, Systems & Networking
-
 <img src="https://skillicons.dev/icons?i=aws,linux,ubuntu,nginx&theme=dark" alt="Cloud & Systems" />
 
-### 🧰 Developer Tools
-
+### 🧰 Developer Tools & Workflow
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm&theme=dark" alt="Tools" />
 
 </div>
@@ -89,9 +67,12 @@ const harjit: Developer = {
 
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **🌐 Portfolio** | Personal portfolio website showcasing projects, skills, and interactive contact touchpoints. | HTML5, CSS3, JavaScript | [![Live](https://img.shields.io/badge/Live-Demo-0A66C2?style=flat-square&logo=githubpages&logoColor=white)](https://harrykalsi24.github.io/Portfolio/) [![Code](https://img.shields.io/badge/Code-Repo-0A66C2?style=flat-square&logo=github&logoColor=white)](https://github.com/Harrykalsi24/Portfolio) |
-| **🛍️ Perfumy Website** | Responsive e-commerce perfume storefront featuring elegant product displays and clean navigation. | HTML5, CSS3, JavaScript | [![Code](https://img.shields.io/badge/Code-Repo-0A66C2?style=flat-square&logo=github&logoColor=white)](https://github.com/Harrykalsi24/Perfume-E-Comm) |
-| **🐍 Snake Game** | Classic retro arcade game built with smooth controls, collision detection, and score tracking. | JavaScript, HTML5, CSS3 | [![Code](https://img.shields.io/badge/Code-Repo-0A66C2?style=flat-square&logo=github&logoColor=white)](https://github.com/Harrykalsi24/Snake-game) |
+| **🌐 Personal Portfolio** | Responsive personal portfolio site with Tailwind CSS, custom interactive cursor tracker, smooth transitions, Pacifico/Inter typography, and Remix icon suite. Showcases projects, bio, and contact portals. | Tailwind CSS, HTML5, JavaScript, Remix Icon | [![Live](https://img.shields.io/badge/Live-Demo-0A66C2?style=flat-square&logo=githubpages&logoColor=white)](https://harrykalsi24.github.io/Portfolio/) [![Code](https://img.shields.io/badge/Code-Repo-0A66C2?style=flat-square&logo=github&logoColor=white)](https://github.com/Harrykalsi24/Portfolio) |
+| **🛍️ Perfumy E-Commerce** | Elegant luxury fragrance storefront designed with Tailwind CSS, Playfair Display & Poppins typography, responsive product showcase grid, and polished e-commerce shopping UI components. | Tailwind CSS, HTML5, JavaScript, Poppins | [![Live](https://img.shields.io/badge/Live-Demo-0A66C2?style=flat-square&logo=githubpages&logoColor=white)](https://harrykalsi24.github.io/Perfume-E-Comm/) [![Code](https://img.shields.io/badge/Code-Repo-0A66C2?style=flat-square&logo=github&logoColor=white)](https://github.com/Harrykalsi24/Perfume-E-Comm) |
+| **🐍 Retro Snake Game** | Interactive retro arcade game powered by HTML5 Canvas and vanilla JavaScript. Features dynamic difficulty/speed adjustments, real-time score counter, smooth grid collision detection, and restart functionality. | JavaScript, HTML5 Canvas, CSS3 | [![Live](https://img.shields.io/badge/Live-Demo-0A66C2?style=flat-square&logo=githubpages&logoColor=white)](https://harrykalsi24.github.io/Snake-game/) [![Code](https://img.shields.io/badge/Code-Repo-0A66C2?style=flat-square&logo=github&logoColor=white)](https://github.com/Harrykalsi24/Snake-game) |
+| **🌦️ ATMO Weather App** | Modern real-time atmospheric weather forecast application integrating the OpenWeatherMap API with dynamic animated backgrounds, GPS geolocation detection, city search, and detailed climate telemetry. | JavaScript, OpenWeatherMap API, HTML5, CSS3 | [![Live](https://img.shields.io/badge/Live-Demo-0A66C2?style=flat-square&logo=githubpages&logoColor=white)](https://harrykalsi24.github.io/atmo/) [![Code](https://img.shields.io/badge/Code-Repo-0A66C2?style=flat-square&logo=github&logoColor=white)](https://github.com/Harrykalsi24/atmo) |
+| **📱 Ecal - Smart EMI** | Mobile-first smart EMI and financial loan calculator featuring a segmented theme switcher (Dark, Light, System), real-time calculation formulas, and clean Plus Jakarta Sans UI design. | JavaScript, HTML5, CSS3, Plus Jakarta Sans | [![Code](https://img.shields.io/badge/Code-Repo-0A66C2?style=flat-square&logo=github&logoColor=white)](https://github.com/Harrykalsi24/Ecal) |
+| **🔐 LoginUI Portal** | Clean, accessible authentication and login interface template with responsive form styling, smooth input transitions, and modern UI best practices. | HTML5, CSS3, JavaScript | [![Live](https://img.shields.io/badge/Live-Demo-0A66C2?style=flat-square&logo=githubpages&logoColor=white)](https://harrykalsi24.github.io/LoginUI/) [![Code](https://img.shields.io/badge/Code-Repo-0A66C2?style=flat-square&logo=github&logoColor=white)](https://github.com/Harrykalsi24/LoginUI) |
 
 </div>
 
@@ -105,8 +86,14 @@ const harjit: Developer = {
 <a href="https://github.com/Harrykalsi24/Perfume-E-Comm">
   <img src="https://github-stats-extended.vercel.app/api/pin/?username=Harrykalsi24&repo=Perfume-E-Comm&theme=nord&border_color=0A66C2&title_color=0A66C2&icon_color=0A66C2&bg_color=0d1117" alt="Perfume-E-Comm repo card" />
 </a>
+
+<br/>
+
 <a href="https://github.com/Harrykalsi24/Snake-game">
   <img src="https://github-stats-extended.vercel.app/api/pin/?username=Harrykalsi24&repo=Snake-game&theme=nord&border_color=0A66C2&title_color=0A66C2&icon_color=0A66C2&bg_color=0d1117" alt="Snake-game repo card" />
+</a>
+<a href="https://github.com/Harrykalsi24/atmo">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Harrykalsi24&repo=atmo&theme=nord&border_color=0A66C2&title_color=0A66C2&icon_color=0A66C2&bg_color=0d1117" alt="atmo repo card" />
 </a>
 
 </div>
