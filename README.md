@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Hero Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=220&section=header&text=Harjit%20Singh&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Software%20Developer%20%7C%20Web%20Designer%20%26%20Developer%20%7C%20Networking%20Specialist&descSize=18&descAlignY=58" width="100%" alt="Harjit Singh header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=220&section=header&text=Harjit%20Singh&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Software%20Developer%20%7C%20Web%20Designer%20%26amp%3B%20Developer%20%7C%20Networking%20Specialist&descSize=18&descAlignY=58" width="100%" alt="Harjit Singh header" />
 
 <br/>
 
