@@ -127,11 +127,13 @@ const harjit: Developer = {
 <div align="center">
 
 <!-- Animated Contribution Snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harrykalsi24/Harrykalsi24/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harrykalsi24/Harrykalsi24/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Harrykalsi24/Harrykalsi24/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</picture>
+<a href="https://github.com/Harrykalsi24">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harrykalsi24/Harrykalsi24/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harrykalsi24/Harrykalsi24/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Harrykalsi24/Harrykalsi24/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+</a>
 
 </div>
 
@@ -141,8 +143,8 @@ const harjit: Developer = {
 
 <div align="center">
 
-<img height="180em" src="https://github-stats-extended.vercel.app/api?username=Harrykalsi24&show_icons=true&theme=nord&border_color=0A66C2&title_color=0A66C2&icon_color=0A66C2&text_color=e5e9f0&bg_color=0d1117&hide_border=false" alt="GitHub stats" />
-<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Harrykalsi24&layout=compact&theme=nord&border_color=0A66C2&title_color=0A66C2&icon_color=0A66C2&text_color=e5e9f0&bg_color=0d1117&hide_border=false" alt="Top languages" />
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=Harrykalsi24&show_icons=true&include_all_commits=true&count_private=true&theme=nord&border_color=0A66C2&title_color=0A66C2&icon_color=0A66C2&text_color=e5e9f0&bg_color=0d1117&hide_border=false" alt="GitHub stats" />
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Harrykalsi24&layout=compact&langs_count=8&theme=nord&border_color=0A66C2&title_color=0A66C2&icon_color=0A66C2&text_color=e5e9f0&bg_color=0d1117&hide_border=false" alt="Top languages" />
 
 <br/><br/>
 
@@ -151,6 +153,12 @@ const harjit: Developer = {
 <br/><br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harrykalsi24&theme=nord" alt="Profile Details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Harrykalsi24&theme=nord" alt="Productive Time Activity" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harrykalsi24&theme=nord" alt="Repos per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Harrykalsi24&theme=nord" alt="Most Commit Language" />
 
 <br/><br/>
 
