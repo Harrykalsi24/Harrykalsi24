@@ -26,11 +26,30 @@
 ```typescript
 const harjit: Developer = {
   name: "Harjit Singh",
-  title: "Software Developer | Web Designer & Developer | Networking Specialist",
-  stack: ["Python", "C", "C++", "Java", "JavaScript", "React", "HTML5", "CSS3", "AWS"],
+  title:
+    "Software Developer | Web Designer & Developer | Networking Specialist",
+  stack: [
+    "Python",
+    "C",
+    "C++",
+    "Java",
+    "JavaScript",
+    "React",
+    "HTML5",
+    "CSS3",
+    "AWS",
+  ],
   status: "Open to Work",
-  interests: ["Full-Stack Engineering", "Cloud Infrastructure", "Network Architecture"],
-  openTo: ["Software Developer roles", "Web Design & Development", "Network Engineering"]
+  interests: [
+    "Full-Stack Engineering",
+    "Cloud Infrastructure",
+    "Network Architecture",
+  ],
+  openTo: [
+    "Software Developer roles",
+    "Web Design & Development",
+    "Network Engineering",
+  ],
 };
 ```
 
@@ -47,15 +66,19 @@ const harjit: Developer = {
 <div align="center">
 
 ### 💻 Languages
+
 ![Languages](https://skillicons.dev/icons?i=py,c,cpp,java,js,ts,bash&theme=dark)
 
 ### 🎨 Frontend & Design
+
 ![Frontend](https://skillicons.dev/icons?i=html,css,react,tailwind,vite,figma&theme=dark)
 
 ### ☁️ Cloud, Systems & Networking
+
 ![Cloud & Systems](https://skillicons.dev/icons?i=aws,linux,ubuntu,nginx&theme=dark)
 
 ### 🧰 Developer Tools
+
 ![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,npm&theme=dark)
 
 </div>
@@ -66,11 +89,11 @@ const harjit: Developer = {
 
 <div align="center">
 
-| Project | Description | Tech Stack | Links |
-| :--- | :--- | :--- | :--- |
-| **🌐 Portfolio** | Personal portfolio website showcasing projects, skills, and interactive contact touchpoints. | HTML5, CSS3, JavaScript | [![Live](https://img.shields.io/badge/Live-Demo-0A66C2?style=flat-square&logo=githubpages&logoColor=white)](https://harrykalsi24.github.io/Portfolio/) [![Code](https://img.shields.io/badge/Code-Repo-0A66C2?style=flat-square&logo=github&logoColor=white)](https://github.com/Harrykalsi24/Portfolio) |
-| **🛍️ Perfumy Website** | Responsive e-commerce perfume storefront featuring elegant product displays and clean navigation. | HTML5, CSS3, JavaScript | [![Code](https://img.shields.io/badge/Code-Repo-0A66C2?style=flat-square&logo=github&logoColor=white)](https://github.com/Harrykalsi24/Perfume-E-Comm) |
-| **🐍 Snake Game** | Classic retro arcade game built with smooth controls, collision detection, and score tracking. | JavaScript, HTML5, CSS3 | [![Code](https://img.shields.io/badge/Code-Repo-0A66C2?style=flat-square&logo=github&logoColor=white)](https://github.com/Harrykalsi24/Snake-game) |
+| Project                | Description                                                                                       | Tech Stack              | Links                                                                                                                                                                                                                                                                                                    |
+| :--------------------- | :------------------------------------------------------------------------------------------------ | :---------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **🌐 Portfolio**       | Personal portfolio website showcasing projects, skills, and interactive contact touchpoints.      | HTML5, CSS3, JavaScript | [![Live](https://img.shields.io/badge/Live-Demo-0A66C2?style=flat-square&logo=githubpages&logoColor=white)](https://harrykalsi24.github.io/Portfolio/) [![Code](https://img.shields.io/badge/Code-Repo-0A66C2?style=flat-square&logo=github&logoColor=white)](https://github.com/Harrykalsi24/Portfolio) |
+| **🛍️ Perfumy Website** | Responsive e-commerce perfume storefront featuring elegant product displays and clean navigation. | HTML5, CSS3, JavaScript | [![Code](https://img.shields.io/badge/Code-Repo-0A66C2?style=flat-square&logo=github&logoColor=white)](https://github.com/Harrykalsi24/Perfume-E-Comm)                                                                                                                                                   |
+| **🐍 Snake Game**      | Classic retro arcade game built with smooth controls, collision detection, and score tracking.    | JavaScript, HTML5, CSS3 | [![Code](https://img.shields.io/badge/Code-Repo-0A66C2?style=flat-square&logo=github&logoColor=white)](https://github.com/Harrykalsi24/Snake-game)                                                                                                                                                       |
 
 </div>
 
