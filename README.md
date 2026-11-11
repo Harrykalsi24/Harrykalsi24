@@ -121,6 +121,23 @@ const harjit: Developer = {
 
 ---
 
+## Contribution Graph & Activity
+
+<div align="center">
+
+<!-- Animated Contribution Snake -->
+<a href="https://github.com/Harrykalsi24">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harrykalsi24/Harrykalsi24/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harrykalsi24/Harrykalsi24/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Harrykalsi24/Harrykalsi24/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+</a>
+
+</div>
+
+---
+
 ## GitHub Analytics
 
 <div align="center">
